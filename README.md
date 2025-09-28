@@ -28,13 +28,13 @@ Example:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/password-generator-tkinter.git
-cd password-generator-tkinter
+git clone https://github.com/VishnuKumarLH/OIBSIP_Python_Programming_Task3/
+cd main.py
 ```
 
 ### 2. Run the Application
 ```bash
-python password_generator.py
+python main.py
 ```
 
 ---
@@ -43,9 +43,9 @@ python password_generator.py
 ```
 password-generator-tkinter/
 │
-├── password_generator.py   # Main Python script
+├── main.py                 # Main Python script
 ├── README.md               # Project documentation
-└── screenshot.png          # App screenshot (optional)
+└── pass.png                # App screenshot 
 ```
 
 ---
