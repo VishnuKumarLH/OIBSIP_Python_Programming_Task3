@@ -18,9 +18,9 @@ This tool allows you to generate secure random passwords with customizable optio
 ---
 
 ## 📸 Screenshot
-*(Add your screenshot here)*  
+
 Example:  
-![App Screenshot](screenshot.png)
+![Screenshot](./pass.png)
 
 ---
 
