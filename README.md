@@ -24,6 +24,12 @@ Example:
 
 ---
 
+## 🖼️ Demo Video
+
+[![Watch the Demo](./demo_img)](https://www.linkedin.com/posts/vishnukumar-l-h-ba6239342_oasisinfobyte-python-internship-activity-7377910871936659456-3B5f?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXR7m4Bh6OFFmWyra2rkh9quq-_Sn7YCFg)
+
+*(Click the thumbnail to watch the demo on LinkedIn.)*
+
 ## 🛠️ Installation & Usage
 
 ### 1. Clone the Repository
