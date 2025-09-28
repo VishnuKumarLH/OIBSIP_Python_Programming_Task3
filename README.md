@@ -34,7 +34,7 @@ Example:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/VishnuKumarLH/OIBSIP_Python_Programming_Task3/
+git clone https://github.com/VishnuKumarLH/OIBSIP_Python_Programming_Task3.git
 cd main.py
 ```
 
